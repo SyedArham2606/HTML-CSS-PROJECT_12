@@ -17,7 +17,7 @@ A brief description of your project goes here.
 
 ## ScreenShot
 
-![Buisness Landing Page](https://github.com/user-attachments/assets/d13af952-7d6e-4c8c-a2ae-2759ec530d41)
+![SAAS Landing Page](https://github.com/user-attachments/assets/1cae62b3-d850-4c4f-a916-105677787ca5)
 
    
 ## Usage Guidelines
